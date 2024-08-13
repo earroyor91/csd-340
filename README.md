@@ -2,4 +2,5 @@
 ## Contributors
 * Sue Sampson
 * Edgar Arroyo
+
 Repository for Web Development Class
