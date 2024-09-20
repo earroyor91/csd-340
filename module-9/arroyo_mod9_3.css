@@ -1,0 +1,31 @@
+h1 {
+    text-align: center;
+    font-size: 2.5em;
+}
+
+body {
+    line-height: 1.6;
+    background-color: #FCF5E5;
+    margin: 0;
+    padding: 20px;
+}
+
+p {
+    text-align: justify;
+}
+
+button {
+    background-color: #0066cc;
+    border: none;
+    padding: 10px 15px;
+    color: white;
+}
+
+button:hover {
+    background-color: #004c99;
+}
+
+span {
+    font-weight: bold;
+    color: #b22222;
+}
