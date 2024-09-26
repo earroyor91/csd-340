@@ -1,0 +1,40 @@
+body {
+     background-color: #e7f3ff;
+     font-family: Arial, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    font-size: 24px;
+    padding-top: 10px;
+}
+
+img {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+#clark {
+    width: 500px;
+    height: 300px;
+    object-fit: contain;
+}
+
+#bruce {
+    width: 500px;
+    height: 300px;
+    object-fit: contain;
+}
+
+#batman {
+    margin-top: 20px;
+}
+
+#superman p{
+    margin-top: 0px;
+}
