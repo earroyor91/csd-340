@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>CSD 340 Web Development with HTML and CSS</title>
+    <link href="arroyo_mod11_2.css" type="text/css" rel="stylesheet">
+    <script src="arroyo_mod11_2.js"></script>
+</head>
+
+<body>
+  <h1>Assignment 11.2: JavaScript - Part 3</h1>
+
+  <p>This is an interactive To Do List. Type in your first item in the text box, then
+  click add. You can also type in an item in the text box and click remove to delete an
+  item. Click the Display button to see current items in the list. Click on Delete Last
+  Entry if you'd like to remove the last entry.</p>
+
+  <label for="userInput">Task: </label>
+  <input id="userInput" type="text" placeholder="Enter item to add/remove here">
+  <button type="button" onclick="add()">Add</button>
+  <button type="button" onclick="remove()">Remove</button>
+  <button type="button" onclick="removeLast()">Delete Last Entry</button>
+  <button type="button" onclick="display()">Display</button>
+
+  <hr>
+
+  <p id="outputArray"></p>
+
+
+</body>
+</html>

@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #FCF5E5;
+}
+
+h1 {
+    text-align: center;
+}
+
+label {
+    font-size: 18px;
+}
+
+#userInput {
+    height: 20px;
+    width: 225px;
+    font-size: 16px;
+}
+
+button {
+    font-size: 14px;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+button:active {
+    box-shadow: inset 0px 0px 5px #c1c1c1;
+}
