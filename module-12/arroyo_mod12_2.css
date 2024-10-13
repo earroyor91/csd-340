@@ -1,0 +1,79 @@
+h1 {
+    text-align: center;
+}
+
+#landing {
+    width: 100%;
+    margin-bottom: 20px;
+    margin-top: 50%;
+}
+
+h3 {
+    font-weight: 500;
+    padding: 5px;
+}
+
+ul,ol {
+    font-weight: 300;
+}
+
+ol {
+    padding: 10px;
+    list-style-position: inside;
+}
+
+ul {
+    padding: 10px;
+    list-style-type: upper-roman;
+    list-style-position: inside;
+}
+
+#booklist {
+    width: 45%;
+    border: 1px;
+    border-color: red;
+    border-style: solid;
+    border-radius: 15px;
+    float: left;
+}
+
+#thingslist {
+    width: 45%;
+    border: 1px;
+    border-color: red;
+    border-style: dashed;
+    border-radius: 15px;
+    float: right;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+#homepage{
+    float: right;
+}
+
+#topButton{
+    background-color: #007AFF;
+    color: white;
+    padding: 5px 10px;
+    text-align: center;
+    font-size: 12px;
+    cursor: pointer;
+    border-radius: 15px;
+    border: none;
+    margin-left: 10px;
+}
+
+#bottomButton{
+    background-color: #007AFF;
+    color: white;
+    padding: 5px 10px;
+    text-align: center;
+    font-size: 12px;
+    cursor: pointer;
+    border-radius: 15px;
+    border: none;
+    margin-left: 10px;
+}
